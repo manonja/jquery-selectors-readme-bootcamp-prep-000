@@ -19,3 +19,7 @@ function divSelector(){
   return pics
 }
 
+function firstListItem(){
+  const firstItem  = $('ul:first-selector')
+  return firstItem
+}
